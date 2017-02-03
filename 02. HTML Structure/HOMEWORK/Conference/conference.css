@@ -1,0 +1,158 @@
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/GtRkRNTnri0g82CjKnEB0Q.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/EsvMC5un3kjyUhB9ZEPPwg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/UyBMtLsHKBKXelqf4x7VRQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+body {
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 16px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#mainheader{
+    background-color: #293F50;
+    color: #ffffff;
+    height: 550px;
+}
+nav ul {
+    padding: 25px;
+    text-align: left;
+}
+nav ul li {
+    display: inline-block;
+    padding-left: 15px;
+    font-size: 16px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #648880;
+}
+#info {
+    text-align: right;
+    padding: 0 25px 0 0;
+    color: #648880;
+
+}
+#mainheader h1{
+    font-weight: 100;
+    font-size: 50px;
+    padding: 60px;
+}
+#mainheader h2 {
+    color: #648880;
+    font-size: 40px;
+    padding: 10px;
+}
+.summary{
+    font-size: 25px;
+    margin-bottom: 45px;
+}
+.register {
+    display: block;
+    margin: auto;
+    text-transform: uppercase;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 15px 45px;
+    width: 10%;
+    color: #ffffff;
+    text-decoration: none;
+}
+.register:hover {
+    background-color: #ffffff;
+    color: #648880;
+}
+section{
+    display: inline-block;
+    width: 300px;
+    margin: 35px;
+}
+section h2 {
+    color: #648880;
+    float: left;
+    padding-bottom: 25px;
+    font-size: 16px;
+    font-weight: 400;
+}
+section img {
+    width: 320px;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+section h3 {
+    font-size: 22px;
+    color: #648880;
+    text-align: left;
+    font-weight: 300;
+    padding-bottom: 10px;
+}
+section p {
+    font-size: 16px;
+    color: #648880;
+    text-align: left;
+}
+footer{
+    background-color: #293F50;
+    padding: 45px 15px;
+    color: #ffffff;
+}
+footer h1 {
+    margin: 25px;
+    font-size: 22px;
+    float: left;
+    font-weight: 100;
+}
+footer nav ul li{
+    float: right;
+}
+footer nav ul li a{
+    color: #ffffff;
+}

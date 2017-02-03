@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Lato;
+    src: url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    color: #ffffff;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: auto;
+    padding: 0 10px;
+    background: url(background-image.jpg) no-repeat center center;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 80px;
+    padding: 80px 0;
+    letter-spacing: 8px;
+}
+
+p {
+    font-size: 27px;
+    font-weight: 100;
+    margin: 20px;
+}
+
+.btn {
+    color: #ffffff;
+    background: none;
+    border: 5px solid #ffffff;
+    border-radius: 15px;
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #000;
+    border-color: #000;
+    cursor: pointer;
+}
+main {
+    margin: 50px auto;
+    max-width: 1060px;
+    padding: 0 10px;
+}
+h2 {
+    color: #234465;
+    margin: 10px;
+}
+main > p {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 5px;
+    letter-spacing: 0;
+    width: 800px;
+}
+img {
+    width: 180px;
+    height: 100px;
+    margin: 10px 50px 0 0;
+    float: left;
+}
+footer {
+    background-color: #000000;
+}
+footer > p {
+    color: #ffffff;
+    font-size: 14px;
+    height: 80px;
+    line-height: 80px;
+    margin: 0px;
+    text-align: center;
+}
