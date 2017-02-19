@@ -1,0 +1,73 @@
+body {
+    background-color: #292929;
+}
+
+section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+section ul li {
+    list-style-type: none;
+}
+
+section ul li h2 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+section ul li a {
+    text-transform: capitalize;
+    color: #B5B497;
+    text-decoration: none;
+    font-weight: normal;
+}
+.facebook, .linkein, .youtube, .twitter {
+    display: inline-block;
+}
+.facebook {
+    background: url("images/social.jpg") -8px -1px;
+    width: 60px;
+    height: 54px;
+}
+
+.facebook:hover {
+    background: url("images/social.jpg") -8px -64px;
+    width: 60px;
+    height: 54px;
+}
+
+.linkein {
+    background: url("images/social.jpg") -199px -1px;
+    width: 60px;
+    height: 54px;
+}
+
+.linkein:hover {
+    background: url("images/social.jpg") -199px -64px;
+    width: 60px;
+    height: 54px;
+}
+.youtube {
+    background: url("images/social.jpg") -518px -1px;
+    width: 60px;
+    height: 54px;
+}
+
+.youtube:hover {
+    background: url("images/social.jpg") -518px -64px;
+    width: 60px;
+    height: 54px;
+}
+.twitter {
+    background: url("images/social.jpg") -72px -1px;
+    width: 60px;
+    height: 54px;
+}
+
+.twitter:hover {
+    background: url("images/social.jpg") -72px -64px;
+    width: 60px;
+    height: 54px;
+}

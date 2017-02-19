@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Lato;
+    src: url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
+}
+
+body {
+    background: url("img/food-image-bg.png") no-repeat center fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif;
+    margin: 10px;
+    font-size: 16px;
+}
+
+main h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    float: right;
+}
+
+p {
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+p > span {
+    color: #B5C640;
+}
+
+.btn-primary {
+    background: none;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    margin-right: 20px;
+    margin-bottom: 65px;
+    display: block;
+    float: right;
+}
+.btn-primary:hover {
+    background-color: #B5C640;
+    cursor: pointer;
+    border: 1px solid #B5C640;
+}
+.prep-steps {
+    float: right;
+    display: block;
+    width: 670px;
+}
+ul.prep-steps {
+    list-style-type: none;
+}
+ul.prep-steps li {
+    margin-bottom: 40px;
+}

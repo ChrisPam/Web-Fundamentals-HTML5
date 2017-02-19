@@ -1,0 +1,19 @@
+body {
+    background: url("images/dark-wood.jpg") repeat;
+    font-size: 14px;
+    font-family: "Lato", sans-serif;
+}
+header {
+    background: url("images/header-page.jpg") no-repeat center;
+    height: 150px;
+    position: relative;
+}
+header h1 {
+    position: absolute;
+    float: right;
+}
+main {
+    width: 940px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+}

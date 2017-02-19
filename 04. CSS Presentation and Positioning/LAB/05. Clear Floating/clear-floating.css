@@ -1,0 +1,39 @@
+body {
+
+}
+
+header, footer {
+    background-color: #8B603D;
+    color: #ffffff;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+aside {
+    float: left;
+}
+
+aside ul {
+    margin: 0 15px 0 0;
+    padding: 0;
+}
+
+aside ul li {
+    list-style-type: none;
+    background-color: #33B5E5;
+    color: #ffffff;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px 0;
+}
+aside ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: block;
+    margin-bottom: 15px;
+}

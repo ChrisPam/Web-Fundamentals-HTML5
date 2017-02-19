@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(45deg, rgba(253, 149, 192, 1) 0%, rgba(195, 95, 204, 1) 38%, rgba(175, 104, 241, 1) 66%, rgba(175, 104, 241, 1) 84%, rgba(168, 125, 255, 1) 100%);
+    color: #FFFFFF;
+}
+
+main {
+    background-color: #2D3154;
+    border-radius: 20px;
+    width: 960px;
+    margin: auto;
+}
+
+.card-type {
+}
+
+#basic-plan {
+    background: url("img/plan-background-basic.png") no-repeat;
+}
+
+#pro-plan {
+
+}

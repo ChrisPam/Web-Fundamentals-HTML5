@@ -56,7 +56,7 @@ body {
     margin: 0;
     padding: 0;
 }
-#mainheader{
+header{
     background-color: #293F50;
     color: #ffffff;
     height: 550px;
@@ -64,6 +64,7 @@ body {
 nav ul {
     padding: 25px;
     text-align: left;
+    background-color: #293F50;
 }
 nav ul li {
     display: inline-block;
@@ -80,12 +81,12 @@ nav ul li a {
     color: #648880;
 
 }
-#mainheader h1{
+header h1{
     font-weight: 100;
     font-size: 50px;
     padding: 60px;
 }
-#mainheader h2 {
+header h2 {
     color: #648880;
     font-size: 40px;
     padding: 10px;
@@ -114,7 +115,7 @@ section{
     width: 300px;
     margin: 35px;
 }
-section h2 {
+section h1 {
     color: #648880;
     float: left;
     padding-bottom: 25px;
@@ -127,7 +128,7 @@ section img {
     border-radius: 10px;
     margin-bottom: 15px;
 }
-section h3 {
+section h2 {
     font-size: 22px;
     color: #648880;
     text-align: left;
