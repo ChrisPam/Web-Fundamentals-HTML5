@@ -1,0 +1,92 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+    font-family: 'Open sans', sans-serif;
+    font-size: 22px;
+    background-color: #1D211E;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+nav {
+    background-color: #E67C1F;
+}
+nav ul {
+    background-color: #E77B20;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+}
+
+/* SUB MENU */
+.subspan {
+    visibility: hidden;
+}
+
+.expandsub:hover .subspan {
+    visibility: visible;
+}
+
+.expandsub {
+    position: relative;
+}
+
+.submenu {
+    display: none;
+}
+
+.submenu li {
+    width: 120px;
+}
+
+.expandsub:hover .submenu {
+    display: block;
+    position: absolute;
+    top: 70px;
+    left: 80px;
+}
+
+.submenu li {
+    display: block;
+}
+
+/* SUB SUB MENU */
+.subsubspan {
+    visibility: hidden;
+}
+
+.expandsubsub:hover .subsubspan {
+    visibility: visible;
+}
+
+.expandsubsub {
+    position: relative;
+}
+
+.subsubmenu {
+    display: none;
+}
+
+.expandsubsub:hover .subsubmenu {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 160px;
+    background-color: #E77B20;
+}
+
+.subsubmenu li {
+    display: block;
+}
+
+.subsubmenu li:hover {
+    background-color: #000000;
+}
