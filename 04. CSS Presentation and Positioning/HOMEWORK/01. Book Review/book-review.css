@@ -1,0 +1,169 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,800";
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #567788 0%, #121f25 100%) no-repeat center center;
+    font-family: "Open sans", sans-serif;
+    font-size: 14px;
+    color: #333333;
+}
+
+nav {
+    background-color: #eff4f7;
+    margin: 40px;
+    position: relative;
+    z-index: 5;
+    height: 80px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #a4a8a9;
+}
+
+nav ul {
+    padding: 20px 20px 0 20px;
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+    padding-bottom: 23px;
+}
+
+nav ul li:hover {
+    cursor: pointer;
+    border-bottom: 3px solid #70e9ff;
+    color: #333;
+}
+
+.logo {
+    position: absolute;
+    z-index: 0;
+    top: -10px;
+    left: 550px;
+    background-color: #ea3d51;
+    width: 140px;
+    height: 140px;
+    margin: 20px;
+}
+
+.brand {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    color: #FFFFFF;
+    margin-top: 72px;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #CBD0D9;
+}
+
+.book-title {
+    position: relative;
+    z-index: 10;
+    color: #121f25;
+    font-size: 54px;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.book-genre {
+    position: relative;
+    z-index: 3;
+    top: -80px;
+    left: 80px;
+    color: #6dffb8;
+    font-size: 120px;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+main > .review {
+    position: relative;
+    z-index: 8;
+    margin: auto;
+    width: 300px;
+    color: #FFFFFF;
+    padding: 40px;
+    text-align: center;
+    background: linear-gradient(to bottom, #eb3c53 0%, #e6135c 100%) no-repeat center center;
+}
+
+.review > img {
+    display: block;
+    text-align: center;
+    width: 100%;
+    max-width: 80px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.review > p:last-of-type::before, .review > p:last-of-type:after {
+    content: ' " ';
+    color: #af213d;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.stars {
+    font-size: 25px;
+    margin: 10px;
+
+}
+
+.review > button {
+    background: none;
+    border: 3px solid #70ecff;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #FFFFFF;
+    padding: 10px 25px;
+}
+
+.review > button:hover {
+    background-color: #70ecff;
+    border-color: #70ecff;
+    color: #348098;
+}
+
+.chapter {
+    position: relative;
+    z-index: 4;
+    top: -250px;
+    background-color: #FFFFFF;
+    margin: 50px;
+    padding: 250px 35px 35px 35px;
+}
+.chapter h1 {
+    color: #46ee97;
+    font-size: 42px;
+}
+
+.chapter p {
+    width: 70%;
+}
+
+.chapter button {
+    background: none;
+    border: 3px solid #628291;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #333333;
+    padding: 10px 25px;
+}
+.chapter button:hover {
+    background-color: #628291;
+    cursor: pointer;
+    color: #6dffb8;
+}
