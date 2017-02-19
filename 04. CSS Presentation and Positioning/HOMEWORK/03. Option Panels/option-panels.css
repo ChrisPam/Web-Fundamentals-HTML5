@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Roboto;
+    src: url('fonts/fonts.css');
+}
+
+body {
+    background-color: #CACACA;
+    width: 1000px;
+    margin: auto;
+    font-size: 15px;
+    font-family: 'Tahoma', Arial, sans-serif;
+    color: #191923;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+nav ul li a {
+    color: #000000;
+}
+
+nav ul li a {
+    text-transform: capitalize;
+}
+
+nav ul li:nth-child(2) a, nav ul li:nth-child(3) a, nav ul li:nth-child(4) a {
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    color: #BF1363;
+}
+
+.active a {
+    color: #BF1363;
+}
+
+section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+section img {
+    width: 246px;
+    height: 150px;
+}
+
+section:hover {
+    opacity: 0.8;
+}
+
+header {
+    background-color: #ffffff;
+    width: 246px;
+    height: 130px;
+    margin-top: -10px;
+    padding: 0;
+}
+
+header h2 {
+    padding: 5px 10px 0px 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+header p {
+    padding: 5px 10px 0px 10px;
+}

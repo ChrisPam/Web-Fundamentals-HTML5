@@ -1,0 +1,187 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f3f5f7;
+    font-size: 14px;
+    font-family: "Open Sans", Arial, sans-serif;
+    position: relative;
+}
+
+.fa {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/* ASIDE */
+aside {
+    background-color: #ffffff;
+    width: 250px;
+    position: absolute;
+    height: 100%;
+/
+}
+
+aside h1 {
+    font-family: "Comfortaa", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    font-weight: lighter;
+}
+
+aside img {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+aside h3 {
+    color: #b1bfc6;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 15px;
+    letter-spacing: 2px;
+}
+
+aside nav {
+    margin-top: 40px;
+}
+
+aside nav ul li {
+    padding: 10px;
+    margin: 10px;
+    color: #b1bfc6;
+    border-left: 3px solid #FFFFFF;
+}
+
+aside nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: inherit;
+    margin-left: 5px;
+    font-size: 1.1em;
+    letter-spacing: 2px;
+}
+
+aside nav ul li:hover {
+    color: #333;
+    border-left: 3px solid #ff7739;
+    cursor: pointer;
+}
+
+/* MAIN */
+main {
+    margin-left: 250px;
+    padding: 25px 45px;
+}
+
+header {
+    display: block;
+}
+
+header::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+main h1 {
+    float: left;
+    color: #384850;
+    font-size: 2em;
+    padding-bottom: 5px;
+}
+
+main button {
+    background-color: #ff7739;
+    border: 3px solid #ff7739;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 10px;
+    color: #ffffff;
+    float: right;
+    cursor: pointer;
+}
+
+main button:hover {
+    background: none;
+    border: 3px solid #ff7739;
+    color: #ff7739;
+}
+
+.location {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.address {
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.rented {
+    position: relative;
+    top: 40px;
+    left: -15px;
+    background-color: #91a5af;
+    border-radius: 20px;
+    text-align: center;
+    width: 90px;
+    color: #FFFFFF;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+.draft {
+    position: relative;
+    top: 40px;
+    left: -15px;
+    border-radius: 20px;
+    text-align: center;
+    width: 90px;
+    color: #FFFFFF;
+    padding: 5px;
+    text-transform: uppercase;
+    background-color: #91a5af;
+}
+
+.listed {
+    position: relative;
+    top: 40px;
+    left: -15px;
+    border-radius: 20px;
+    text-align: center;
+    width: 90px;
+    color: #FFFFFF;
+    padding: 5px;
+    text-transform: uppercase;
+    background-color: #68bc69;
+}
+
+main section {
+    display: inline-block;
+    padding: 25px 0;
+    margin: 20px 10px;
+    background-color: #FFFFFF;
+    Box-shadow: 8px 6px 17px -1px rgba(0, 0, 0, 0.26);
+}
+
+main section p {
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+main section h2 {
+    padding: 0 5px 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: capitalize;
+}
