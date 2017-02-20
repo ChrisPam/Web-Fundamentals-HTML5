@@ -1,0 +1,44 @@
+@font-face {
+    font-family: OpenSans-ExtraBold;
+    src: url('fonts/OpenSans-ExtraBold.ttf')
+}
+
+body {
+    font-family: OpenSans-ExtraBold, sans-serif;
+    background-color: #F0F0E8;
+    color: #798086;
+}
+
+.title {
+    text-align: center;
+    font-size: 56px;
+    color: #009288;
+}
+
+.title::after {
+    margin-top: 25px;
+    display: block;
+    content: '~~~~~::~~~~~';
+    font-size: 20px;
+    color: #798086;
+
+}
+
+.moto {
+    text-align: center;
+}
+section {
+    padding: 50px 0;
+    text-align: center;
+    margin: auto;
+}
+
+article {
+    width: 200px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.content {
+    font-weight: lighter;
+}
