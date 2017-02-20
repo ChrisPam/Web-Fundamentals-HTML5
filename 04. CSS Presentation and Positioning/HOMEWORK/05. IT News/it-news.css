@@ -1,0 +1,48 @@
+body {
+    width: 610px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 30px;
+}
+
+article {
+    width: 280px;
+    height: 100%;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 10px #CCCCCC;
+}
+
+article h1 {
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+article img {
+    float: left;
+    width: 20%;
+}
+
+article a {
+    color: #000000;
+    text-decoration: none;
+}
+article a:hover {
+    text-decoration: underline;
+}
+
+.date {
+    font-size: 10px;
+    color: #A192B0;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}

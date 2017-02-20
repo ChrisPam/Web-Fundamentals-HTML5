@@ -1,0 +1,32 @@
+body {
+    font-family: "Calibri Light", Verdana, sans-serif;
+    width: 890px;
+    margin: 30px auto;
+    border: 2px solid #a5b2b3;
+    padding: 10px;
+}
+
+section {
+    text-align: center;
+}
+section a {
+    color: #000000;
+}
+section a:hover {
+    opacity: 0.7;
+}
+article {
+    width: 200px;
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    vertical-align: top;
+}
+
+article p {
+    text-align: left;
+}
+
+article img {
+    width: 200px;
+}

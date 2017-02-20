@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700,700i');
+
+body {
+    width: 1000px;
+    font-family: Vollkorn, serif;
+    font-size: 16px;
+    margin: auto;
+    color: #778495;
+}
+
+section {
+    text-align: center;
+}
+
+article {
+    box-shadow: 1px 1px 10px #CCC;
+    padding: 10px;
+    width: 270px;
+    display: inline-block;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: normal;
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+}
+
+.price {
+    font-size: 60px;
+    font-family: Vollkorn, serif;
+    font-weight: 400;
+    padding: 20px 0 60px;
+    margin: 0;
+}
+
+ul {
+    padding: 10px;
+}
+
+ul li {
+    list-style-type: none;
+    text-align: left;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #CCC;
+}
+
+.purchase {
+    padding: 15px;
+    background-color: #DDDDDD;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    text-transform: capitalize;
+
+}
