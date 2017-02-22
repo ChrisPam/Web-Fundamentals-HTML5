@@ -1,0 +1,83 @@
+@font-face {
+    font-family: Lemon-Regular;
+    src: url('fonts/Lemon-Regular.ttf');
+}
+
+body {
+    font-family: Lemon-Regular, Arial, sans-serif;
+    background-color: #602C74;
+}
+
+.container {
+    background-color: #FFAE31;
+    padding: 20px;
+    width: 900px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.title {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 24px;
+    margin: 0;
+}
+
+section {
+    margin: auto;
+    text-align: center;
+}
+
+article {
+    background-color: #5F2055;
+    padding: 15px;
+    margin: 20px;
+    display: inline-block;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #ffffff;
+}
+
+.made-in, .model, .number, .guarantee, .price {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    text-align: left;
+}
+.price {
+    text-align: center;
+    font-size: 22px;
+}
+.watch {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #826B73;
+}
+
+.watch:hover {
+    border: 5px solid #FA4F00;
+    cursor: pointer;
+}
+
+.guarantee {
+    color: #FFAE31;
+    font-size: 15px;
+}
+
+.add-to-cart {
+    font-size: 15px;
+    padding: 5px;
+    margin-top: 10px;
+    width: 100%;
+    color: mediumpurple;
+    font-family: inherit;
+    background-color: #ffffff;
+    border-radius: 20px;
+    font-style: italic;
+}
+
+.add-to-cart:hover {
+    color: #000000;
+    cursor: pointer;
+}
