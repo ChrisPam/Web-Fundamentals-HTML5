@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+/*
+Font: Georgia, "Times New Roman", serif;
+Text Color: #888, #FFF;
+Background Color: #F7F7F7, #E27575
+*/
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: #ffffff;
+}
+
+main {
+    background-color: #F7F7F7;
+    color: #888;
+    text-align: center;
+    width: 960px;
+    margin: auto;
+    padding: 20px;
+}
+
+main h1 {
+    text-align: left;
+    margin: 0 0 0 150px;
+}
+
+main h2 {
+    font-size: 16px;
+    text-align: left;
+    margin: 0 0 0 150px;
+}
+
+input, select {
+    width: calc(100% - 150px);
+    height: 30px;
+    box-shadow: 0 0 5px #DDD;
+    padding: 10px;
+    border: none;
+}
+
+textarea {
+    width: calc(100% - 150px);
+    height: 200px;
+    box-shadow: 0 0 5px #DDD;
+    padding: 10px;
+    border: none;
+    resize: none;
+}
+
+select {
+    width: calc(100% - 150px);
+    height: 40px;
+    box-shadow: 0 0 5px #DDD;
+    padding: 10px;
+    border: none;
+}
+
+input[type=submit] {
+    color: #ffffff;
+    background-color: #E27575;
+    height: 40px;
+    box-shadow: 0 0 5px #DDD;
+    border: none;
+    border-radius: 5px;
+    margin-left: 150px;
+
+}
+
+div {
+    margin-bottom: 40px;
+}
+
+label {
+    float: left;
+    text-align: right;
+    width: 150px;
+    padding-right: 20px;
+    vertical-align: middle;
+}
