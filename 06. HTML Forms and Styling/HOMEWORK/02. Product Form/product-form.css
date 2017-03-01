@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+@import url("https://fonts.googleapis.com/css?family=Anton");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    height: 600px;
+    box-shadow: 0 0 20px #45d4d5;
+}
+
+.left-part {
+    background: linear-gradient(to bottom, #6afdc9 0%, #42c9ca 100%);
+    width: 45%;
+    height: 600px;
+    display: inline-block;
+    border-radius: 10px 0 0 10px;
+}
+
+.left-part img {
+    width: 500px;
+}
+
+.right-part {
+    margin-left: 20px;
+    display: inline-block;
+    height: 600px;
+}
+
+.right-part h1 {
+    font-family: Anton, sans-serif;
+    font-size: 3em;
+}
+.right-part p {
+    font-family: Anton, sans-serif;
+    font-size: 2em;
+}
+
+.right-part select {
+    margin-left: 20px;
+    width: 210px;
+    padding: 10px;
+    background-color: #42CACA;
+    color: #FFFFFF;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    border: none;
+}
+
+.right-part label {
+    display: block;
+    margin: 10px;
+}
+
+.right-part input {
+    display: block;
+    border: none;
+    border-bottom: 5px solid #42CACA;
+    width: 210px;
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.right-part input::-webkit-input-placeholder {
+    color: #42CACA;
+    vertical-align: bottom;
+}
+
+.right-part button {
+    border: 3px solid #42CACA;
+    border-radius: 20px;
+    background: none;
+    padding: 10px;
+    width: 160px;
+    text-transform: uppercase;
+    color: #42CACA;
+    margin-top: 15px;
+}
+
+.right-part button:hover {
+    color: #FFFFFF;
+    background-color: #42c9ca;
+    cursor: pointer;
+}
