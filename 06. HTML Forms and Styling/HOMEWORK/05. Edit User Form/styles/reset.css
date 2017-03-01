@@ -2,6 +2,11 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import "https://fonts.googleapis.com/css?family=Roboto:400,500,700";
+
+* {
+    box-sizing: border-box;
+}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -13,36 +18,143 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+figure, figcaption, footer, header,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
-    font: inherit;
     vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+footer, header, menu, nav, section {
     display: block;
 }
+
 body {
     line-height: 1;
+    background-color: #EEEEEE;
 }
+
 ol, ul {
     list-style: none;
 }
+
 blockquote, q {
     quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content: '';
-    content: none;
-}
+
 table {
     border-collapse: collapse;
     border-spacing: 0;
+}
+
+main {
+    display: block;
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-top: 5px solid #000;
+    border-left: 5px solid #000;
+    padding: 10px;
+}
+
+input[type=text], input[type=email], input[type=password] {
+    width: 100%;
+    display: block;
+    height: 25px;
+    border-top: 3px solid #000;
+    border-left: 3px solid #000;
+}
+
+input[type=radio] {
+    display: inline-block;
+}
+
+label {
+    display: block;
+    margin: 10px 10px 10px 0;
+}
+
+.radio-label {
+    display: inline-block;
+    width: 30%;
+}
+
+.group {
+    background-color: #FFFFFF;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    border-top: 3px solid #000;
+    border-left: 3px solid #000;
+}
+
+.group input {
+    display: inline-block;
+}
+
+.group label {
+    display: block;
+}
+
+p {
+    margin-top: 10px;
+    display: block;
+}
+
+a {
+    color: #22685E;
+    margin-top: 10px;
+    display: block;
+}
+
+.cancel {
+    width: 40%;
+    height: 46px;
+    color: #E05F3F;
+    border: none;
+    border-bottom: 3px solid #E05F3F;
+    border-right: 3px solid #E05F3F;
+    background: none;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+}
+
+.cancel:hover {
+    background-color: #E05F3F;
+    color: #FFFFFF;
+}
+
+.save {
+    width: 40%;
+    height: 46px;
+    color: #22685E;
+    border: none;
+    border-bottom: 3px solid #22685E;
+    border-right: 3px solid #22685E;
+    background: none;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+}
+
+.save:hover {
+    background-color: #22685E;
+    color: #FFFFFF;
+}
+
+.buttons {
+    text-align: center;
+    margin: 15px 0 15px 0;
 }
