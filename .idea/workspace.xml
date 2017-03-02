@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ddbaddc-583c-411e-a8fc-e51d9aa8793e" name="Default" comment="Drop Down Menu solution upload">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/03. Room Reservation.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/screenshots/room-reservation-hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/screenshots/room-reservation.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/search-job.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/search-job.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/text.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/screenshots/free-account-hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/screenshots/free-account.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/text.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/about-us.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/climbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/paraglider-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/sky-diver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/user1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation(1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation-hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/text.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6ddbaddc-583c-411e-a8fc-e51d9aa8793e" name="Default" comment="Drop Down Menu solution upload" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -344,7 +321,7 @@
       <workItem from="1487871564955" duration="8552000" />
       <workItem from="1488025185801" duration="8924000" />
       <workItem from="1488384278546" duration="8368000" />
-      <workItem from="1488472424318" duration="121000" />
+      <workItem from="1488472424318" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="HTML Structure LAB solutions&#10;">
       <created>1485983046230</created>
@@ -371,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132901000" />
+    <option name="totallyTimeSpent" value="133285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
