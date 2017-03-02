@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ddbaddc-583c-411e-a8fc-e51d9aa8793e" name="Default" comment="Drop Down Menu solution upload">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/img/image-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/img/pass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/img/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Creating Landing Pages/02. Code Mesh Conference/code-mesh-conference.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Creating Landing Pages/02. Code Mesh Conference/code-mesh-conference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/01. Login Form Images/login-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/01. Login Form Images/login-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/login-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/login-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/02. Login Form Font Awesome/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/03. Login Form Bg Images/login-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/03. Login Form Bg Images/login-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/04. Contact Form/contact-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/04. Contact Form/contact-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/05. Arranging the Widths/arranging-the-widths.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/05. Arranging the Widths/arranging-the-widths.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/03. Room Reservation.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/screenshots/room-reservation-hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/screenshots/room-reservation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/search-job.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/search-job.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/03. Room Reservation/text.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/screenshots/free-account-hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/screenshots/free-account.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/text.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/about-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/climbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/paraglider-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/sky-diver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/images/user1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation-hover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/screenshots/extreme-reservation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/06. Extreme Reservation/text.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,13 +40,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="edit-user.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/edit-user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -66,12 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/01. Briard History/briard-history.css" />
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/05. Clear Floating/floating-elements.css" />
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/05. Clear Floating/floating-elements.html" />
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/04. Floating Element/floating-elements.html" />
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/04. Floating Element/floating-elements.css" />
-        <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/05. Clear Floating/05. clear-floating.txt" />
         <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/02. Social Media/02. social-media.txt" />
         <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/05. Clear Floating/clear-floating.html" />
         <option value="$PROJECT_DIR$/04. CSS Presentation and Positioning/LAB/02. Social Media/social-media.html" />
@@ -117,6 +126,12 @@
         <option value="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/04. Contact Form/contact-form.css" />
         <option value="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/05. Arranging the Widths/arranging-the-widths.html" />
         <option value="$PROJECT_DIR$/06. HTML Forms and Styling/LAB/05. Arranging the Widths/arranging-the-widths.css" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/01. Search Job/search-job.html" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/01. Search Job/search-job.css" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/product-form.html" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/product-form.css" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/edit-user.html" />
+        <option value="$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/styles/reset.css" />
       </list>
     </option>
   </component>
@@ -203,20 +218,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-Fundamentals-HTML5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-Fundamentals-HTML5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="06. HTML Forms and Styling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -234,19 +235,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\06. HTML Forms and Styling\LAB" />
-      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\HOMEWORK" />
-      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\HOMEWORK\01. Book Review" />
-      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\LAB\03. Drop Down Menu" />
-      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\LAB\05. Clear Floating" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\06. HTML Forms and Styling\LAB\03. Login Form Bg Images" />
       <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\06. HTML Forms and Styling\LAB\02. Login Form Font Awesome" />
       <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\03. CSS Selectors and Rules\HOMEWORK\Plan Page" />
       <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\03. CSS Selectors and Rules\HOMEWORK\Color Kitchen" />
       <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\02. HTML Structure\HOMEWORK\Innovation Cloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\06. HTML Forms and Styling\HOMEWORK" />
+      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\06. HTML Forms and Styling\LAB" />
+      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\HOMEWORK" />
+      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\HOMEWORK\01. Book Review" />
+      <recent name="C:\Users\Christian Pamidoff\WebstormProjects\Web-Fundamentals-HTML5\04. CSS Presentation and Positioning\LAB\03. Drop Down Menu" />
     </key>
   </component>
   <component name="RunManager">
@@ -341,7 +342,9 @@
       <workItem from="1487607034821" duration="12494000" />
       <workItem from="1487794408082" duration="683000" />
       <workItem from="1487871564955" duration="8552000" />
-      <workItem from="1488025185801" duration="8625000" />
+      <workItem from="1488025185801" duration="8924000" />
+      <workItem from="1488384278546" duration="8368000" />
+      <workItem from="1488472424318" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="HTML Structure LAB solutions&#10;">
       <created>1485983046230</created>
@@ -368,18 +371,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124113000" />
+    <option name="totallyTimeSpent" value="132901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20717423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22327965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -411,88 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/08. Services/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/08. Services/services.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/08. Services/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/08. Services/screenshots/services.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/screenshots/watch-store.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/watch-store.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="21" column="84" lean-forward="false" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-2-sample.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-1-sample.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/images/watch-3-sample.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04. CSS Presentation and Positioning/HOMEWORK/09. Watch Store/watch-store.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -592,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="153" column="1" lean-forward="false" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,13 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="133" column="34" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="34" />
-          <folding>
-            <element signature="n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="79" column="1" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="e#705#711#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,6 +640,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/01. Search Job/search-job.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="99" column="20" lean-forward="false" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/01. Search Job/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/01. Search Job/search-job.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/product-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/screenshots/product-form(1).jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/screenshots/product-form.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/screenshots/product-form-hover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/02. Product Form/product-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/04. Free Account/text.txt" />
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/screenshots/edit-user-form.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/styles/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="61" column="36" lean-forward="false" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. HTML Forms and Styling/HOMEWORK/05. Edit User Form/edit-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
