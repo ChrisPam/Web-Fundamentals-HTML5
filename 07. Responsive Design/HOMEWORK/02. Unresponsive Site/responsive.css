@@ -1,0 +1,55 @@
+@media screen and (max-width: 780px) {
+    body #wrapper > header nav ul {
+
+    }
+    body #wrapper > header nav ul li {
+        flex-wrap: nowrap;
+        flex-grow: 1;
+    }
+    body #wrapper > header nav ul li {
+        width: auto;
+    }
+    body #wrapper {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body #wrapper > header h1 a span, body #wrapper > header h1 a img {
+        margin: 0 auto;
+    }
+    body #wrapper > header nav ul li {
+        width: 100%;
+    }
+    body #wrapper {
+        width: auto;
+    }
+    body > * {
+        padding: 10px;
+        flex-grow: 1;
+        flex-basis: 200px;
+        order: 0;
+    }
+
+    header {
+        flex-basis: 100%;
+        order: 1;
+    }
+
+    footer {
+        flex-basis: 100%;
+        order: 5;
+    }
+    section {
+        order: 2;
+        flex-basis: 100%;
+    }
+    aside {
+        order: 3;
+        flex-basis: 100%;
+    }
+    .news {
+        order: 4;
+        flex-basis: 100%;
+    }
+}
