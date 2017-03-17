@@ -49,6 +49,7 @@ h1 {
     left: 0;
     opacity: 0;
     cursor: pointer;
+    transition: opacity 0.5s;
 }
 
 .effect-2 img {
@@ -56,6 +57,7 @@ h1 {
     top: 0;
     left: 0;
     cursor: pointer;
+    transition: left 1.2s;
 }
 
 .effect-3 img {
@@ -68,9 +70,26 @@ h1 {
     top: 0;
     left: 0;
     margin-left: -200px;
+    transition: margin-left 0.7s 0.5s;
 }
 
 /** Transition effects **/
 
 /* TODO */
+.effect-1 p:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
 
+.effect-2:hover img {
+    left: 200px;
+}
+
+.effect-2 p:hover {
+    cursor: pointer;
+}
+
+.effect-3:hover p {
+    margin-left: 0;
+    cursor: pointer;
+}

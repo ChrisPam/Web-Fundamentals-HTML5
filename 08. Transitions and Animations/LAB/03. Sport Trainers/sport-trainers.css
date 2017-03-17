@@ -32,6 +32,7 @@ body {
     font-size: 1rem;
     font-weight: 600;
     text-transform: uppercase;
+    transition: right 0.5s;
 }
 
 .menu {
@@ -40,14 +41,14 @@ body {
     top: 0;
     left: -155px;
     margin: 0;
-    padding-left: 20px;
     background: transparent;
+    transition: left 0.5s;
 }
 
 .caption {
     background: skyblue;
     height: 100%;
-    padding: 15px 20px 0 0;
+    padding: 0 20px 0 20px;
 }
 
 h4 {
@@ -79,6 +80,7 @@ ul li {
     padding-left: 13px;
     font-size: 1.2rem;
     line-height: 1.6rem;
+    transition: all .2s ease-in-out;
 }
 
 ul li a {
@@ -92,3 +94,18 @@ ul li a {
 /** Transition effects **/
 
 /* TODO */
+
+.box:hover::before {
+    right: -260px;
+}
+
+.box:hover .menu {
+    left: 0;
+    padding-left: 0;
+}
+
+
+ul li:hover {
+    transform: scale(1.1);
+    transition: all .2s ease-in-out;
+}

@@ -38,7 +38,7 @@ h1{ text-align: center; color: #000 }
     position: absolute;
     opacity: 0;
     transform: scale(0.8);
-    /*TODO add transition property, transition duration and transition function*/
+    transition: 0.5s all linear;
 }
 
 #churches figure img {
@@ -62,5 +62,6 @@ h1{ text-align: center; color: #000 }
 #altenberger:checked~#churches #altenberger-fig,
 #saint-michel:checked~#churches #saint-michel-fig,
 #moscow:checked~#churches #moscow-fig {
-    /* TODO add opacity and transform scale */
+    opacity: 1;
+    transform: scale(1);
 }
