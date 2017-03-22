@@ -1,0 +1,150 @@
+@font-face {
+    font-family: RicksAmericanNF;
+    src: url(Fonts/RicksAmericanNF.ttf);
+}
+
+body {
+    background-color: #000000;
+}
+
+/*TODO*/
+img {
+    width: 240px;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFA100;
+}
+
+.wrapper {
+    background-color: #000000;
+    color: #FFA100;
+    width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    font-family: RicksAmericanNF, sans-serif;
+    color: #FFA100;
+}
+
+header h1 {
+    font-size: 60px;
+    letter-spacing: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-size: 30px;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 0 30px;
+    margin-right: 120px;
+}
+
+nav ul li:hover {
+    background-color: #FFA100;
+    border-radius: 20px;
+    color: #000000;
+}
+
+nav ul li:hover a {
+    color: #000000;
+}
+
+nav ul li:last-of-type {
+    margin-right: 0;
+}
+
+main {
+    background-color: #3C3C3C;
+}
+
+.news {
+    float: left;
+    width: 60%;
+    font-family: Helvetica, sans-serif;
+}
+
+.news article h2 {
+    font-size: 23px;
+    text-align: center;
+    color: #FFA100;
+    font-weight: bold;
+}
+
+.new article img {
+    float: left;
+    width: 25%;
+}
+
+.news article p {
+    float: right;
+    width: 50%;
+    text-align: justify;
+}
+
+.read-more {
+    font-weight: bold;
+}
+
+.news article::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+aside {
+    float: right;
+    width: 35%;
+    text-align: right;
+}
+
+aside img {
+    width: 100%;
+    padding: 0;
+    border: 1px solid #FFA100;
+    border-radius: 10px;
+}
+
+aside figure {
+    position: relative;
+    cursor: pointer;
+}
+
+aside figcaption {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100%;
+    bottom: 5px;
+    border-radius: 0 0 10px 10px
+}
+
+aside figure:hover figcaption {
+    background-color: #FFA100;
+    color: #000000;
+    cursor: pointer;
+}
+
+main::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+footer p {
+    text-align: center;
+}

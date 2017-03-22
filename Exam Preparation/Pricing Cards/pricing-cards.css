@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    background-color: #EAEFF2;
+    margin: 20px auto;
+    font-family: "Open sans", sans-serif;
+}
+
+.pricing-cards {
+    text-align: center;
+}
+
+.pricing-cards article {
+    background-color: #F9FAFC;
+    display: inline-block;
+    width: 260px;
+    margin-right: 20px;
+    height: 400px;
+    vertical-align: top;
+    position: relative;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.pricing-cards article:last-of-type {
+    margin-right: 0;
+}
+
+article img {
+    width: 45px;
+}
+
+article:last-of-type img {
+    width: 40px;
+}
+
+article h2 {
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 40px 0;
+}
+
+article p {
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+article span {
+    font-size: 35px;
+    display: block;
+    bottom: 90px;
+    color: #FB7F41;
+}
+
+article button {
+    font-size: 16px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 25px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #FB7F41;
+    cursor: pointer;
+    position: absolute;
+    bottom: 25px;
+    right: 35px;
+}
+
+article button:hover {
+    background-color: #FE4D01;
+}
+
+article:hover {
+    background-color: #FFF;
+}
+
+
+article.free button {
+    background-color: #93DDE8;
+}
+
+article.free span {
+    color: #696B6A;
+}
