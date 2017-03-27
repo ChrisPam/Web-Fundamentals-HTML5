@@ -1,0 +1,38 @@
+@media screen and (max-width: 640px) {
+    .nav-primary {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-item {
+        margin: 20px 0 0 0;
+    }
+
+    .second-row {
+        flex-direction: column;
+    }
+
+    .mixr-left {
+        padding: 2rem;
+        width: calc(100% - 4rem);
+        display: block;
+    }
+
+    .urbeats-right {
+        padding: 2rem;
+        display: block;
+        width: calc(100% - 4rem);
+    }
+
+    section {
+        text-align: center;
+    }
+
+    .product-img {
+        width: 45%;
+    }
+
+    .studio {
+        padding: 3rem;
+    }
+}

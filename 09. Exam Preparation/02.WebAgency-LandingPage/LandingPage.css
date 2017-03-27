@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Kreon:400,700|Open+Sans:400,700');
+
+body {
+    font: 14px "Open sans", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/********/
+/*HEADER*/
+/********/
+header {
+    background: url("img/header-background.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 30px;
+}
+
+header h2 {
+    font: 32px Kreon;
+    display: inline;
+}
+
+header h2 a {
+    color: #FFFFFF;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline;
+}
+
+.top-navigation {
+    display: inline-block;
+}
+
+.top-navigation ul li {
+    display: inline-block;
+    margin: 0 50px;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.top-navigation ul li:hover {
+    background-color: #F4474F;
+}
+
+.top-navigation ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header span {
+    display: block;
+    color: #dddddd;
+    font-size: 22px;
+    text-transform: uppercase;
+    padding: 200px 0 0 0;
+}
+
+header h1 {
+    font-size: 42px;
+    color: #FFFFFF;
+    width: 60%;
+    margin-bottom: 120px;
+}
+
+/*******************/
+/*TWO ARTICLE PANEL*/
+/*******************/
+.shortcuts {
+    text-align: center;
+}
+
+.shortcuts::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.shortcuts article {
+    float: left;
+    margin: 0;
+    width: calc(50% - 40px);
+    text-align: left;
+    padding: 20px;
+}
+
+.shortcuts article h3 {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 16px 0;
+}
+
+.shortcuts article p {
+    color: #FFFFFF;
+}
+
+.shortcuts article::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.shortcuts article img {
+    float: left;
+    height: 120px;
+    width: 150px;
+    margin-top: 30px;
+}
+
+.portfolio {
+    background-color: #F4474F;
+}
+
+.results {
+    background-color: #31C7D8;
+}
+
+/*****************/
+/*MARKETING PANEL*/
+/*****************/
+.marketing {
+    padding: 40px;
+    text-align: center;
+}
+
+.marketing::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.marketing h2 {
+    font: 40px Kreon;
+    text-align: left;
+}
+
+.marketing > p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    width: 60%;
+    text-align: left;
+}
+
+.marketing article {
+    display: inline-block;
+    width: 25%;
+    margin-right: 35px;
+    border-right: 1px solid #dddddd;
+    text-align: left;
+}
+
+.marketing article:last-of-type {
+    margin-right: 0;
+}
+
+/***********/
+/*START NOW*/
+/***********/
+.start-now {
+    background-color: #F4474F;
+    font: 26px Kreon, sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.start-now h2 {
+    display: inline-block;
+    margin: 40px;
+}
+
+.start-now button {
+    display: inline-block;
+    margin: 40px;
+    vertical-align: bottom;
+    padding: 0 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFFFFF;
+    color: #F4474F;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.start-now button:hover {
+    color: #000000;
+}
+
+/********/
+/*FOOTER*/
+/********/
+
+footer p {
+    text-align: center;
+    margin: 30px 0;
+}

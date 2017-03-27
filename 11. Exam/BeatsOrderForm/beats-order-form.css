@@ -1,0 +1,103 @@
+@import 'https://fonts.googleapis.com/css?family=OpenSans:400,900';
+
+body {
+    background: #14353f; /* Old browsers */
+    background: -webkit-linear-gradient(left, #14353f 0%, #5f676e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #14353f 0%, #5f676e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    width: 90%;
+    margin: 0 auto;
+    font-family: "Open sans", sans-serif;
+}
+
+.beats-form {
+    background-color: #FFFFFF;
+    width: 960px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 20px;
+    position: relative;
+    min-height: 505px;
+}
+
+.beats-form h1 {
+    font-size: 33px;
+    color: #9E9E9E;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.beats-form span {
+    font-size: 50px;
+    text-align: right;
+    display: block;
+    color: #7D7D7D;
+    font-weight: bold;
+    margin-bottom: 90px;
+}
+
+.beats-form > img {
+    margin-left: -200px;
+    max-width: 700px;
+    position: absolute;
+    top: -10px;
+}
+
+.right-side {
+    width: 60%;
+    float: right;
+    position: relative;
+}
+
+.form-field {
+    position: relative;
+    display: inline-block;
+}
+
+.form-field:first-child {
+    display: block;
+    width: 100%;
+}
+
+.icon {
+    font-size: 30px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #575757;
+}
+
+.beats-form div input[type=text] {
+    border: none;
+    background: none;
+    border-bottom: 2px solid #AAA;
+    margin: 15px 10px;
+    display: inline-block;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    padding: 0 0 10px 50px;
+    width: calc(245px - 40px);
+    position: relative;
+}
+
+.beats-form div input[type=text]:focus {
+    outline: none;
+}
+
+.beats-form input[type=submit] {
+    padding: 10px 25px;
+    background-color: #535E66;
+    border: none;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 1.1em;
+    float: right;
+    margin: 10px 30px 0 0;
+}
+
+.right-side::after {
+    content: '';
+    clear: both;
+    display: block;
+}

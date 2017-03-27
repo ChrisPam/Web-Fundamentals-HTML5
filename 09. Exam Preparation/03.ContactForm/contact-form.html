@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="contact-form.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<form>
+    <!--fa-male, fa-envelope-o, fa-home, fa-phone, fa-comment-o, fa-->
+    <h1>Should you have any questions, please do not hesitate to contact us:</h1>
+    <div class="form-body">
+        <div class="input">
+            <label for="user-name">Name <span class="required">*</span></label>
+            <i class="fa fa-male"></i>
+            <input type="text" name="user-name" id="user-name"/>
+        </div>
+
+        <div class="input">
+            <label for="phone">Phone <span class="required">*</span></label>
+            <i class="fa fa-phone"></i>
+            <input type="text" name="phone" id="phone"/>
+        </div>
+
+        <div class="input">
+            <label for="email">Email <span class="required">*</span></label>
+            <i class="fa fa-envelope-o"></i>
+            <input type="email" name="email" id="email"/>
+        </div>
+
+        <div class="input">
+            <label for="subject">Subject <span class="required">*</span></label>
+            <i class="fa fa-comment-o"></i>
+            <input type="text" name="subject" id="subject"/>
+        </div>
+
+        <div class="input">
+            <label for="company">Company <span class="required">*</span></label>
+            <i class="fa fa-home"></i>
+            <input type="text" name="company" id="company"/>
+        </div>
+
+        <div class="input">
+            <label for="message">Message <span class="required">*</span></label>
+            <i class="fa fa-comments-o"></i>
+            <textarea id="message"></textarea>
+        </div>
+
+            <input type="submit" value="send"/>
+    </div>
+</form>
+</body>
+</html>

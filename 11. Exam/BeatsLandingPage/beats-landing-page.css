@@ -1,0 +1,293 @@
+body {
+    font-family: "Open sans", sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/******************************/
+/***********HEADER*************/
+/******************************/
+
+header nav ul {
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 20px 100px 20px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+header nav ul li:hover {
+    border-bottom: 2px solid #AAAAAA;
+    color: #000000;
+}
+
+header nav ul li a {
+    color: #AAAAAA;
+    text-decoration: none;
+}
+
+header nav ul li:last-of-type {
+    margin-right: 0;
+}
+
+/******************************/
+/*****SOLO-WIRELESS PANEL******/
+/******************************/
+.solo-wireless {
+    display: flex;
+    align-items: center;
+}
+
+.solo-wireless .left-part {
+    display: block;
+    width: auto;
+    margin: 0 0 0 80px;
+    padding: 30px 40px;
+}
+
+.solo-wireless h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 3em;
+    padding: 25px 0;
+}
+
+.solo-wireless p {
+    font-size: 1.2em;
+    padding: 10px 0 40px 0;
+}
+
+button {
+    padding: 13px 40px;
+    border: none;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+button:hover {
+    /*TODO*/
+    background-color: #DC0202;
+}
+
+.solo-wireless img {
+    float: right;
+    display: inline-block;
+    margin: 0 30px 30px 30px;
+    max-width: 550px;
+}
+
+.solo-wireless::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+/******************************/
+/*******POWER-BEATS PANEL******/
+/******************************/
+
+.power-beats {
+    display: flex;
+    align-items: center;
+    background-color: #FBFCFF;
+}
+
+.power-beats .right-part {
+    display: block;
+    width: auto;
+    margin: 0 80px 0 0;
+    padding: 30px 0 30px 0;
+}
+
+.power-beats h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 4em;
+    padding: 25px 0;
+    text-align: right;
+}
+
+.power-beats h5 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding: 0 0 41px 0;
+    text-align: right;
+}
+
+.right-part h5 span {
+    font-weight: bold;
+}
+
+.power-beats p {
+    font-size: 1.2em;
+    padding: 10px 0 40px 0;
+    text-align: left;
+}
+
+.power-beats img {
+    float: left;
+    display: inline-block;
+    margin: 0 30px 30px 30px;
+    max-width: 550px;
+}
+
+.power-beats button {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.power-beats .right-part > span {
+    font-size: 3em;
+    float: left;
+    font-weight: bold;
+}
+
+.right-part::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.power-beats::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+/******************************/
+/************TRY FREE**********/
+/******************************/
+.try-free {
+    background-color: #575757;
+    text-align: center;
+    padding: 30px;
+}
+
+.slogan {
+    text-align: center;
+    display: inline-block;
+}
+
+.try-free p {
+    float: left;
+    padding: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 1.2em;
+}
+
+.try-free span {
+    font-weight: bold;
+}
+
+.try-free img {
+    max-width: 70px;
+    float: left;
+}
+
+.try-free a {
+    font-size: 1.2em;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #FFFFFF;
+    display: block;
+    width: 12%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.try-free .slogan::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+/******************************/
+/***********GIVE LIFE**********/
+/******************************/
+.give-life {
+    position: relative;
+}
+
+.give-life h2 {
+}
+
+.give-life div {
+    float: left;
+    background-color: #DADADA;
+    width: calc(50% - 50px);
+    padding: 0 25px;
+}
+
+.give-life h2, .give-life p {
+    display: inline-block;
+}
+
+.give-life .left-image {
+    width: 50%;
+    float: left;
+    height: 651px;
+}
+
+.give-life::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.give-life .right {
+    position: relative;
+    height: 651px;
+    float: left;
+}
+
+.give-life .small-image {
+    position: absolute;
+    top: 15px;
+    right: 45px;
+}
+
+.left {
+    width: 45%;
+}
+
+.left p {
+    font-size: 50px;
+    letter-spacing: -5px;
+}
+
+.left span {
+    color: #FF0000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.give-life h2 {
+    font-size: 150px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -10px;
+}
+
+/******************************/
+/*************FOOTER***********/
+/******************************/
+footer p {
+    text-align: center;
+    padding: 30px 0;
+    font-size: 1.3em;
+}
